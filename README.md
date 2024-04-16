@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Hedya Mapule Slingsby and I am 24 years old. I am studying a BSc in Astronomy and Astrophysics. I am currently working on a research essay that explores dark matter. I'm currently learning Quantum Physics alongside Statistical Physics for my Physics Major. 
+
 <!--
 **hamkins99/hamkins99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
